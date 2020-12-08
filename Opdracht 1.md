@@ -1,4 +1,7 @@
 # Webshop
+
+Ben nu bezig met de shoppingcard
+
 Een winkel van lekkernijen wil ook online gaan verkopen en begint voorlopig met een beperkt aanbod.
 Ook heeft de eigenaar bedacht dat elk artikel uit een categorie dezelfde prijs heeft.
 Er is dus een verschil in prijs tussen de categorieën maar niet binnen een categorie.
